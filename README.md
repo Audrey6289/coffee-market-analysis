@@ -74,6 +74,7 @@ Power BI 互動式儀表板
 <img width="602" height="341" alt="image" src="https://github.com/user-attachments/assets/ad9046df-1a53-42dd-93f9-a2ef12142110" />
 
 <img width="607" height="343" alt="image" src="https://github.com/user-attachments/assets/c1ac50da-f3d4-4e69-a19e-58bed4998aa0" />
+
 ---
 
 ## 使用工具
