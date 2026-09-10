@@ -69,11 +69,11 @@ Power BI 互動式儀表板
 - 飲品 × 點心同購率關聯矩陣（Kaggle 資料集）
 - 行銷活動世代留存熱力圖（Cohort Analysis）
 
-<img width="611" height="341" alt="image" src="https://github.com/user-attachments/assets/c6c5d44f-4567-46f9-8460-7f9608fb1bc6" />
+<img width="698" height="393" alt="image" src="https://github.com/user-attachments/assets/45c2a5a9-96da-4293-9ebf-b0c877e95ff4" />
 
-<img width="602" height="341" alt="image" src="https://github.com/user-attachments/assets/ad9046df-1a53-42dd-93f9-a2ef12142110" />
+<img width="698" height="392" alt="image" src="https://github.com/user-attachments/assets/030a6188-5ebd-4a39-b060-7891f0f91038" />
 
-<img width="607" height="343" alt="image" src="https://github.com/user-attachments/assets/c1ac50da-f3d4-4e69-a19e-58bed4998aa0" />
+<img width="697" height="392" alt="image" src="https://github.com/user-attachments/assets/83511f22-10de-4e8b-bc5e-800ed9dae56c" />
 
 ---
 
